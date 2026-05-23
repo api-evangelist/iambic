@@ -1,0 +1,112 @@
+aid: iambic
+url: https://raw.githubusercontent.com/api-evangelist/iambic/refs/heads/main/apis.yml
+name: Iambic Therapeutics
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+description: Iambic Therapeutics is a clinical-stage AI drug discovery company headquartered in
+  San Diego. Its proprietary AI platform pairs the NeuralPLexer 3D generative model for
+  protein-ligand structure prediction with the Enchant multimodal transformer for clinical and
+  preclinical endpoint prediction, integrated with automated wet-lab capabilities. Iambic's
+  clinical pipeline includes IAM1363 (HER2), IAM-K1 (KIF18A), and IAM-C1 (CDK2/4) in oncology.
+  Iambic is a therapeutics developer rather than an API provider and does not publish a public
+  developer API or open-source platform.
+tags:
+  - Drug Discovery
+  - AI for Science
+  - Therapeutics
+  - Biotech
+  - Oncology
+  - Clinical-Stage Pipeline
+  - Generative Chemistry
+  - Structural Biology
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.iambic.ai/
+  - type: Pipeline
+    url: https://www.iambic.ai/pipeline
+  - type: Platform
+    url: https://www.iambic.ai/platform
+  - type: Newsroom
+    url: https://www.iambic.ai/news
+  - type: Publications
+    url: https://www.iambic.ai/publications
+  - type: Careers
+    url: https://www.iambic.ai/careers
+  - type: Contact
+    url: https://www.iambic.ai/contact
+  - type: Email
+    url: mailto:contact@iambic.ai
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/iambictherapeutics
+  - type: Twitter
+    url: https://twitter.com/iambictx
+  - type: Features
+    data:
+      - name: NeuralPLexer
+        description: 3D generative model that predicts protein-ligand complex structures directly
+          from amino acid sequence and ligand graph inputs, reported in Nature Machine Intelligence
+          with state-of-the-art docking and binding-site performance.
+      - name: Enchant
+        description: Multimodal transformer that predicts clinical and preclinical endpoints from
+          molecular structures.
+      - name: Automated Wet-Lab Integration
+        description: Closed-loop coupling of AI design with high-throughput automated wet-lab
+          synthesis and assay capabilities.
+      - name: Brain-Penetrant Small Molecules
+        description: Programs such as IAM1363 designed to cross the blood-brain barrier for CNS and
+          brain-metastatic oncology indications.
+  - type: Pipeline
+    data:
+      - name: IAM1363 (HER2)
+        description: Brain-penetrant HER2 inhibitor showing anti-tumor activity in Phase 1b
+          clinical trials.
+      - name: IAM-K1 (KIF18A)
+        description: Potential best-in-class KIF18A inhibitor for breast and ovarian cancers.
+      - name: IAM-C1 (CDK2/4)
+        description: Selective CDK2/4 inhibitor for HR+/HER2- metastatic breast cancer.
+  - type: UseCases
+    data:
+      - name: AI-Driven Small-Molecule Design
+        description: End-to-end design of novel small-molecule therapeutics using generative AI.
+      - name: Protein-Ligand Structure Prediction
+        description: Structural prediction to support hit discovery and lead optimization.
+      - name: Clinical Endpoint Prediction
+        description: Machine-learning prediction of preclinical and clinical endpoints to guide
+          program selection.
+  - type: Partnerships
+    data:
+      - name: Takeda
+        description: Multi-year collaboration announced February 2026 to apply Iambic's AI-driven
+          drug discovery platform to Takeda's small-molecule R&D in oncology, gastrointestinal, and
+          inflammation. Includes an undisclosed upfront payment plus research funding, with up to
+          $1.7B in development and sales milestones and royalties on resulting products.
+  - type: Recognition
+    data:
+      - name: CNBC Disruptor 50
+        description: Named to the CNBC Disruptor 50 list.
+      - name: Conference Presentations
+        description: Presented at industry conferences including the JPMorgan Healthcare Conference,
+          Galien Forum, and AIAS.
+  - type: Authentication
+    data:
+      - name: No Public Developer API
+        description: Iambic Therapeutics does not publish a public developer API, SDK, or
+          open-source platform. Engagement is through pharma partnerships and the company's
+          internal R&D pipeline.
+  - type: Compliance
+    data:
+      - name: GxP Drug Development
+        description: Operates within standard pharmaceutical regulatory frameworks (GLP, GMP, GCP)
+          for clinical-stage drug development.
+  - type: Facilities
+    data:
+      - name: San Diego Headquarters
+        description: Headquartered in San Diego, California with AI, computational chemistry, and
+          automated wet-lab facilities.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
