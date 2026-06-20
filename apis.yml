@@ -2,7 +2,7 @@ aid: iambic
 url: https://raw.githubusercontent.com/api-evangelist/iambic/refs/heads/main/apis.yml
 name: Iambic Therapeutics
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 description: Iambic Therapeutics is a clinical-stage AI drug discovery company headquartered in
   San Diego. Its proprietary AI platform pairs the NeuralPLexer 3D generative model for
   protein-ligand structure prediction with the Enchant multimodal transformer for clinical and
