@@ -24,6 +24,8 @@ modified: '2026-05-23'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/iambic-domain-security.yml
   - type: Website
     url: https://www.iambic.ai/
   - type: Pipeline
@@ -44,6 +46,8 @@ common:
     url: https://www.linkedin.com/company/iambictherapeutics
   - type: Twitter
     url: https://twitter.com/iambictx
+  - url: https://www.iambic.ai/news
+    type: Blog
   - type: Features
     data:
       - name: NeuralPLexer
