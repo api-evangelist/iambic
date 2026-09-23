@@ -1,0 +1,26 @@
+# Front Door AI Index — iambic — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: iambic
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.iambic.ai
+  final_host: www.iambic.ai
+  ownership: own
+  owner: iambic
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 13
+  host_score: 13
+  density: 24.62
+  words: 528
+  tiers:
+    agentic: 0
+    core: 10
+    model: 3
+  ambiguous: 0
+  top_terms:
+    AI: 10
+    transformer: 3
